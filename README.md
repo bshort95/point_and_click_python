@@ -39,7 +39,7 @@ when you click certain areas you can zoom into an object,
 
 when this happens an arrow will appear above so you can press it and  get back into the room.
 the only other thing you need to know is that there are time where you will get tools, and sometimes you have to press those tools in your toolbar to make it work,
-![screen example](https://github.com/bshort95/point_and_click_python/blob/main/point_and_click_python/Capture2.JPG?raw=true)
+![screen example](https://github.com/bshort95/point_and_click_python/blob/main/point_and_click_python/Capture3.JPG?raw=true)
 
 just try the game and see if you can figure it out
 
